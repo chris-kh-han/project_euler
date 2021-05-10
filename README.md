@@ -1,1 +1,3 @@
-# project_euler
+# PROJECT EULER 🐍
+
+* Let's do it 🔥👊
