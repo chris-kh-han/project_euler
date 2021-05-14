@@ -1,6 +1,3 @@
-# PROJECT EULER 🐍
-
-* Let's do it 🔥👊
 # **_Project Euler_** 🐍
 
 ## <span style="color:red">Number 3</span> 👉 
